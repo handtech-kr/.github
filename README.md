@@ -6,8 +6,8 @@
 
 ---
 
-### 🇰🇷 대한민국 | IoT · AI · 자연과학-공학 융합 기술 기업
-### 🇺🇸 South Korea | IoT · AI · Science-Engineering Convergence
+### 대한민국 | IoT · AI · 자연과학-공학 융합 기술 기업
+### South Korea | IoT · AI · Science-Engineering Convergence
 
 ---
 
