@@ -1,119 +1,68 @@
-<!-- HANDTECH | handtech-kr GitHub Organization Profile README -->
+# 핸텍 (HANDTECH)
 
-<div align="center">
+> **상상공작소** — 산업 현장 AI · 하드웨어 · 펌웨어 · 앱 · 기구 설계 전문 엔지니어링 기업
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A1628,1A3A5C,0D7377&height=200&section=header&text=HANDTECH&fontSize=60&fontColor=14FFEC&fontAlignY=38&desc=IoT%20·%20AI%20·%20Engineering&descAlignY=58&descColor=8BFFF5" width="100%"/>
-
----
-
-### 대한민국 | IoT · AI · 자연과학-공학 융합 기술 기업
-### South Korea | IoT · AI · Science-Engineering Convergence
+🌐 **[handtech-kr.github.io/handtech-pages](https://handtech-kr.github.io/handtech-pages)**
 
 ---
 
-</div>
+## 회사 소개
 
-## 🏢 회사 소개 | About Us
-
-**핸텍(HANDTECH)** 은 대한민국의 IoT·AI 전문 기술 기업으로,  
-하드웨어부터 소프트웨어, 서비스까지 **end-to-end 기술 솔루션**을 제공합니다.  
-자연과학과 공학의 융합을 기반으로, 현장 문제를 기술로 해결합니다.
-
-**HANDTECH** is a Korean technology company specializing in IoT and AI,  
-delivering **end-to-end solutions** spanning hardware, software, and services.  
-We solve real-world problems through science-engineering convergence.
+핸텍(HANDTECH)은 PCB/회로 설계, 펌웨어 개발, 모바일 앱 개발, 기구 설계(3D/2D CAD), 구동부 및 외장 개발을 원스톱으로 수행하는 엔지니어링 전문 기업입니다.  
+산업 현장 특화 AI 시스템을 주력으로, 모빌리티·제조·XR/웨어러블·IoT 등 다양한 도메인에 걸쳐 제품 기획부터 양산 지원까지 일괄 개발 경험을 보유하고 있습니다.
 
 ---
 
-## 🔬 핵심 기술 분야 | Core Capabilities
+## 핵심 역량
 
-<div align="center">
-
-|  | 분야 | 설명 |
-|:---:|:---|:---|
-| 🤖 | **AI 시스템 구축** | 머신러닝·딥러닝 기반 AI 솔루션 설계 및 구축 |
-| 📡 | **IoT 제품/시스템** | 센서·통신·클라우드를 연결하는 IoT 시스템 개발 |
-| ⚙️ | **HW/SW 개발** | 임베디드 시스템부터 응용 소프트웨어까지 |
-| 🔭 | **융합 엔지니어링** | 자연과학과 공학의 경계를 넘는 R&D |
-| 🛠️ | **서비스 플랫폼** | 기술 기반 서비스 기획 및 운영 |
-
-</div>
-
-|  | Field | Description |
-|:---:|:---|:---|
-| 🤖 | **AI System Development** | ML/DL-based AI solution design & deployment |
-| 📡 | **IoT Products/Systems** | Sensor-to-cloud IoT system development |
-| ⚙️ | **HW/SW Development** | Embedded systems to application software |
-| 🔭 | **Convergence Engineering** | R&D bridging natural science and engineering |
-| 🛠️ | **Service Platform** | Tech-driven service planning & operation |
+| 분야 | 내용 |
+|------|------|
+| 🤖 **AI System** | 제조·모빌리티·물류 등 산업 현장 특화 AI. 하드웨어 기반 위에 엣지 AI를 얹는 end-to-end 솔루션 |
+| ⚙️ **PCB / HW Design** | 전원 회로, 모터 드라이버, 충전 회로, 오디오 앰프 등 다양한 PCB 설계 및 양산 지원 |
+| 🔧 **Firmware Dev** | MCU(PIC, STM32) 기반 펌웨어, UWB·BLE 무선통신, 센서 인터페이스, 모터 제어 |
+| 📐 **Mechanical Design** | Fusion 360·FreeCad 기반 3D 기구 설계, 3D 프린팅, CNC 가공, 구동부 설계 |
+| 📱 **App / SW Dev** | Flutter·Android Studio 기반 앱 개발, Google Play 배포, IoT 원격 모니터링 SW |
+| 🥽 **XR / Wearable** | XR 글로브, UWB 위치추적(iSafety), HoloLens 클립, 엑소스켈레톤 등 |
 
 ---
 
-## 🛠️ 기술 스택 | Tech Stack
+## 주요 프로젝트
 
-<div align="center">
-
-**AI / ML**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**IoT / Embedded**  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-
-**Software / Cloud**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
+- **버스 탑재 IoT PCB 개발** — IFBOX·오디오 앰프·충전기 등 10종 이상 양산 (협력: 한국플랫폼서비스)
+- **XR 햅틱 글로브** — 5차례 버전 반복 개발 및 납품 (협력: (주)메타뷰)
+- **UWB 실내 위치추적 시스템 (iSafety)** — Tag·AP 전 하드웨어 자체 개발 (협력: (주)메타뷰)
+- **5축 CNC 머시닝센터 KD-H53AT** — 기계·전장 설계 전담 납품
+- **전동 고카트** — 전장·기구·구동부 일괄 개발
+- **AI 번역 앱 (영어↔스페인어)** — Google Play 배포 완료 (2026)
 
 ---
 
-## 📁 저장소 구조 | Repository Structure
+## 정부 과제 참여 이력 (간접)
 
-```
-handtech-kr
-├── 🔓 Public
-│   ├── .github              # 회사 프로필 README
-│   ├── handtech-portfolio   # 공개 프로젝트 포트폴리오
-│   └── handtech-pages       # 공식 웹사이트 (GitHub Pages)
-│
-└── 🔒 Private
-    ├── ht-ai-[project]      # AI 시스템 프로젝트
-    ├── ht-iot-[project]     # IoT 개발 프로젝트
-    ├── ht-hw-[project]      # Hardware 개발
-    ├── ht-sw-[project]      # Software 개발
-    ├── ht-svc-[project]     # Service 플랫폼
-    └── ht-internal-docs     # 내부 문서 및 설계서
-```
+| 협력사 | 내용 |
+|--------|------|
+| (주)메타뷰 | XR융합 시제품 제작 지원사업 (충북과학기술혁신원, 2024) — End User: HD한국조선해양, POSCO 저탄소공정연구소 |
+| 한국플랫폼서비스 | 버스 차량 탑재 IoT 시스템 관련 정부 과제 |
 
 ---
 
-## 📬 연락처 | Contact
+## 특허
 
-<div align="center">
-
-[![Website](https://img.shields.io/badge/🌐_Website-www.handtech.co.kr-0D7377?style=for-the-badge)](https://www.handtech.co.kr)
-[![Location](https://img.shields.io/badge/📍_Location-South_Korea-red?style=for-the-badge)](#)
-
-> 📩 프로젝트 문의 및 기술 협력은 홈페이지를 통해 연락해 주세요.  
-> For project inquiries and technical collaboration, please contact us via our website.
-
-</div>
+- 2020년 특허 출원 3건
+- 2021년 특허 출원 1건
 
 ---
 
-<div align="center">
+## 연락처
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A1628,1A3A5C,0D7377&height=100&section=footer&fontColor=14FFEC" width="100%"/>
+| | |
+|--|--|
+| **대표** | 노진문 |
+| **이메일** | master@handtech.co.kr |
+| **전화** | 031-433-3843 |
+| **소재지** | 경기도 시흥시 봉우순환로3번길 12-1 |
+| **GitHub** | [github.com/handtech-kr](https://github.com/handtech-kr) |
 
-*© 2024 HANDTECH. All rights reserved.*
+---
 
-</div>
+© 2026 핸텍(HANDTECH). All rights reserved.
